@@ -56,7 +56,7 @@ module.exports = {
 
       let textHelpMenu = `Konnichiwa *${pushName}* Senpai,
 
-I am *${botName}*, a bot developed by *Team Atlas*.
+I am *${botName}*, a bot Modified by *Nexxer*.
 
 🎀 My prefix is: *${prefix}*
 
@@ -276,7 +276,7 @@ Here's the list of my Commands.\n
       }
 
       textHelpMenu += `*🔰  ${botName}  🔰*
- _Powered By:_ *Team ATLAS*
+ _Powered By:_ *Ɲᴇꪎꪎᴇʀ  ꢺᴀϻᴀ 𓆩×͜×𓆪ꪾ*
 
 🎀 To use any of these commands type " *${prefix}Command name* ".
 
